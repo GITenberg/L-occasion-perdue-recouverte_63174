@@ -1,0 +1,40 @@
+_repo: L-occasion-perdue-recouverte_63174
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Corneille, Pierre
+    birthdate: 1606
+    deathdate: 1684
+    gutenberg_agent_id: '960'
+    url: http://www.gutenberg.org/2009/agents/960
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Pierre_Corneille
+    - http://fr.wikipedia.org/wiki/Pierre_Corneille
+  editor:
+    agent_name: Jacob, P. L.
+    aliases:
+    - Dufour, Pierre
+    - Jacob, Paul L.
+    - Jacob, Bibliophile
+    - Lacroix, Paul
+    - Jacob, Paul Lacroix
+    birthdate: 1806
+    deathdate: 1884
+    gutenberg_agent_id: '4290'
+    url: http://www.gutenberg.org/2009/agents/4290
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Paul_Lacroix_(%C3%A9crivain)
+    - https://en.wikipedia.org/wiki/Paul_Lacroix
+description: ''
+gutenberg_issued: '2020-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63174'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'occasion perdue recouverte
+url: http://www.gutenberg.org/ebooks/63174
