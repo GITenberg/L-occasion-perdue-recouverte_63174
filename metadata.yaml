@@ -1,5 +1,8 @@
 _repo: L-occasion-perdue-recouverte_63174
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63174-h/images/cover.jpg
 creator:
   author:
     agent_name: Corneille, Pierre
@@ -26,6 +29,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Paul_Lacroix_(%C3%A9crivain)
     - https://en.wikipedia.org/wiki/Paul_Lacroix
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63174#L-occasion-perdue-recouverte
 gutenberg_issued: '2020-09-10'
 gutenberg_type: Text
 identifiers:
